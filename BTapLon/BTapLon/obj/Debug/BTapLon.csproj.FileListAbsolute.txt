@@ -1,1 +1,9 @@
 C:\Users\Administrator\Documents\GitHub\BaiTapLon\BTapLon\BTapLon\bin\Debug\BTapLon.exe.config
+C:\Users\Administrator\Documents\GitHub\BaiTapLon\BTapLon\BTapLon\obj\Debug\BTapLon.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\BaiTapLon\BTapLon\BTapLon\obj\Debug\BTapLon.Form1.resources
+C:\Users\Administrator\Documents\GitHub\BaiTapLon\BTapLon\BTapLon\obj\Debug\BTapLon.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\BaiTapLon\BTapLon\BTapLon\obj\Debug\BTapLon.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\BaiTapLon\BTapLon\BTapLon\bin\Debug\BTapLon.exe
+C:\Users\Administrator\Documents\GitHub\BaiTapLon\BTapLon\BTapLon\bin\Debug\BTapLon.pdb
+C:\Users\Administrator\Documents\GitHub\BaiTapLon\BTapLon\BTapLon\obj\Debug\BTapLon.exe
+C:\Users\Administrator\Documents\GitHub\BaiTapLon\BTapLon\BTapLon\obj\Debug\BTapLon.pdb

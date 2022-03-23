@@ -16,5 +16,10 @@ namespace BTapLon
         {
             InitializeComponent();
         }
+
+        private void btnClick_Click(object sender, EventArgs e)
+        {
+             MessageBox.Show("Hello: " + textBox1.Text);
+        }
     }
 }
